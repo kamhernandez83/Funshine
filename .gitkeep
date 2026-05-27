@@ -1,0 +1,5 @@
+cd /workspace/Funshine
+git remote -v
+git branch
+git log --oneline -n 10
+git push -u origin work
